@@ -18,7 +18,7 @@ public class EmailController : ControllerBase
     [Route("GetCountry")]
     public async Task<IActionResult> GetCountry()
     {
-        string ip = "192.168.1.1";
+        string ip = "87.52.111.60";
         var country = await _soapService.FindCountryByIpAsync(ip);
         return Ok(country);
     }
