@@ -1,6 +1,4 @@
 # SystemIntegrationMP1
-SystemIntegrationMP1
-
 Frederik, Julius Janus
 
 ### The solution
