@@ -4,7 +4,7 @@ using MiniProject1.Models;
 
 namespace MiniProject1.Services
 {
-    public class SoapService
+    public class CountryService
     {
         public async Task<Country> FindCountryByIpAsync(string ip)
         {

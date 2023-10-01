@@ -30,3 +30,4 @@
 /Users/frederik/RiderProjects/MiniProject1/MiniProject1/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/frederik/RiderProjects/MiniProject1/MiniProject1/obj/Debug/net7.0/MiniProject1.MvcApplicationPartsAssemblyInfo.cs
 /Users/frederik/RiderProjects/MiniProject1/MiniProject1/obj/Debug/net7.0/MiniProject1.csproj.CopyComplete
+/Users/frederik/RiderProjects/MiniProject1/MiniProject1/bin/Debug/net7.0/Newtonsoft.Json.dll

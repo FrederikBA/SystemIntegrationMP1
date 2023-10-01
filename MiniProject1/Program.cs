@@ -22,7 +22,8 @@ builder.Services.AddCors(options =>
 });
 
 
-builder.Services.AddScoped<SoapService>();
+builder.Services.AddScoped<CountryService>();
+builder.Services.AddScoped<GenderService>();
 builder.Services.AddScoped<EmailService>();
 
 
