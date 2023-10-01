@@ -15,7 +15,7 @@ public class GenderService
     public async Task<string> FindGenderByNameAndCountryAsync(Recipient recipient)
     {
         const string apiUrl = "https://gender-api.com/get";
-        const string apiKey = "CjNxNvxK4qElY6KbuYrhc29NY2mLHbdSRJNj";
+        const string apiKey = "api-key";
 
         var country = await _countryService.FindCountryByIpAsync(recipient.Ip);
 
