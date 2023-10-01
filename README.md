@@ -3,7 +3,7 @@ SystemIntegrationMP1
 
 Frederik, Julius Janus
 
-# Mini Project: Email Sending
+### The solution
 
 In this mini project, we send emails to a list of recipients based on their name, email address, and IP address.
 
