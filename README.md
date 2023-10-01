@@ -9,7 +9,7 @@ The email should salute the recipient with either Ms. or Mr.
 
 To do this, we need to use external APIs and web services to get the gender of a recipient based on their name and country.
 
-First approach is to use the IP address of the recipient to get the country. Here we used a SOAP request. This code is located in CountryService: `FindCountryByIpAsync(string ip)`
+First approach is to use the IP address of the recipient to get the country. Here we used a SOAP API. This code is located in CountryService: `FindCountryByIpAsync(string ip)`
 
 Secondly, knowing the country and the name, we can use an external gender API to get the gender of a recipient based on their name and country. This is a REST API and is found in GenderService: `FindGenderByNameAndCountryAsync(Recipient recipient)`
 
