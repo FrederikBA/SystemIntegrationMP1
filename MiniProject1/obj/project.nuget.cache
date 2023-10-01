@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jod3vasZvug+qCvxEkx78LX2Jn99n4cGtG3/ILvxmt+doaGZF1bmlctfEBrm7wVo9NIn+6xndkEQiy6Hw7Cn+Q==",
+  "success": true,
+  "projectFilePath": "/Users/frederik/RiderProjects/MiniProject1/MiniProject1/MiniProject1.csproj",
+  "expectedPackageFiles": [
+    "/Users/frederik/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/frederik/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
