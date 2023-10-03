@@ -19,7 +19,7 @@ public class GenderService
 
         var country = await _countryService.FindCountryByIpAsync(recipient.Ip);
 
-        var url = $"{apiUrl}?name={recipient.Name}&country={country}&key={apiKey}";
+        var url = $"{apiUrl}?name={recipient.Name}&country={country.Name}&key={apiKey}";
 
         var httpClient = new HttpClient();
         var response = await httpClient.GetStringAsync(url);
